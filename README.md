@@ -47,6 +47,4 @@
 ### RESULTS AND DISCUSSION
 #### The models are trained and evaluated using various performance metrics. The detailed results are presented in the following table:
 
-![image](https://github.com/user-attachments/assets/eda692d6-9fe3-43c8-b075-976afac1e5dd)
-
-![image](https://github.com/user-attachments/assets/685f180b-7f82-4195-813c-aea14cb5e2f5)
+<img width="362" height="563" alt="image" src="https://github.com/user-attachments/assets/df13f269-24b3-4c6c-b341-23d7b89db987" />
