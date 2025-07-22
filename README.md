@@ -1,5 +1,7 @@
 # Diabetes-Prediction-Using-SMOTE-and-Multiple-Classifiers
 ----------------------------------------------------------
+![a-dramatic-product-shot-advertisement-fo_8juyJmmBRTeboH6ZKcj2Wg_s_KFRAbsTZiGiCqmCP2amw](https://github.com/user-attachments/assets/aa60b011-23aa-40f1-9957-1a8b3510cb1b)
+
 #### This study presents a machine learning-based approach for diabetes prediction using structured patient data. The dataset comprises 100,000 patient records, including key risk factors such as age, BMI, HbA1c levels, and blood glucose levels. Due to class imbalance in diabetic cases, SMOTE is applied to enhance model fairness.  Seven classifiers—Random Forest, Support Vector Machine (SVM), Logistic Regression, K-Nearest Neighbors (KNN), Naïve Bayes, Gradient Boosting, and Decision Tree—are implemented and assessed using metrics such as accuracy, precision, recall, F1-score, ROC AUC, and confusion matrices. The results indicate that ensemble models, particularly Random Forest and Gradient Boosting, outperform other classifiers in predictive performance. The findings of this study contribute to the ongoing research on machine learning applications in healthcare, demonstrating the importance of robust preprocessing techniques and classifier selection in medical diagnosis.
 
 ### INTRODUCTION 
